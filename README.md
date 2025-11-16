@@ -1,8 +1,9 @@
 <p align="center">
   <img src="/assets/logo.png" alt="Logo">
+</p>
 
-![Preview](assets/preview.gif)
-
+<p align="center">
+  <img src="assets/preview.gif" alt="Preview">
 </p>
 Interactive H.265/HEVC video optimizer for Hyprland wallpapers. Reduce file sizes dramatically while keeping visual quality for animated wallpapers.
 
